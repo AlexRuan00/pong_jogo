@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-attachment:fixed;
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-color:#000;
+}
+#jogo { 
+    border: solid;
+    border-radius: 0.5rem;
+    border-color: ForestGreen;
+    width: 800px; 
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 190px;
+}
+#pontos6 {
+    border: solid;
+    border-radius: 0.5rem;
+    border-color: ForestGreen;
+    width: 800px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 110px;
+    background: #000;
+}
+#pontos {
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 110px;
+    background: #000;
+}
+#pontos1{
+  
+    font-size: 40px;
+    color: ForestGreen;
+
+}
+#pontos2{
+   
+    font-size: 40px;
+    color: ForestGreen;
+   
+}
